@@ -22,4 +22,8 @@ Remove Duplicate Phone Numbers
 Character Frequency Counter
 List to Tuple Conversion
 Dictionary Key Check
-Average Marks Calculator
+Average Marks 
+
+🟢 Task 3-Python Programming Assignment: Data Processing and Analysis
+
+This repository contains solutions to six Python problems involving data processing, analysis, and validation. Tasks include employee bonus eligibility, keyword frequency analysis, sensor data validation, email domain usage, sales spike detection, and duplicate user ID detection. Each problem demonstrates Python concepts like dictionaries, lists, tuples, and string manipulation.
