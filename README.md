@@ -4,6 +4,7 @@ This repository contains all my daily internship tasks completed during the Inno
 It includes logic building exercises, Python practice problems, and data processing assignments completed using Jupyter Notebook.
 
 📌 Tasks Included
+
 🟢 Task 1 – Basic Logic Building
 User Login Check
 Pass/Fail Analyzer
