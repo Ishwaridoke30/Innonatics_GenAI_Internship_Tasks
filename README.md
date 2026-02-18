@@ -27,3 +27,15 @@ Average Marks
 🟢 Task 3-Python Programming Assignment: Data Processing and Analysis
 
 This repository contains solutions to six Python problems involving data processing, analysis, and validation. Tasks include employee bonus eligibility, keyword frequency analysis, sensor data validation, email domain usage, sales spike detection, and duplicate user ID detection. Each problem demonstrates Python concepts like dictionaries, lists, tuples, and string manipulation.
+
+
+🟢 Task 4 – Python Mini Systems
+This task includes six small real-world systems built using Python functions, loops, and conditions.
+1. Mobile Recharge Validation – Validates recharge amount and plan with retry option.
+2. Inventory Reorder Alert – Checks stock and shows alert if quantity is low.
+3. Student Result Processing – Calculates average marks and displays Pass/Fail.
+4. Cab Fare Estimator – Calculates fare with peak hour charges and retry option.
+5. Attendance Eligibility Checker – Calculates attendance percentage and checks eligibility.
+6. Password Strength Checker– Validates password based on length, digit, and special character.
+Purpose: To practice Python fundamentals and apply them to real-time scenarios.
+
