@@ -45,3 +45,8 @@ It prevents overbooking by confirming users only up to the maximum capacity.
 Additional registrations are automatically moved to a waitlist.
 The system updates registration status as Open or Closed based on availability.
 
+🟢Task 7 – This task contains 6 basic Object-Oriented Programming (OOP) problems implemented using Python classes.
+Each program demonstrates real-time use cases like smart lights, employee ID cards, contacts, products, movies, and delivery systems. Concepts used include class, constructor (__init__), object creation, and methods.
+These mini projects help in understanding how OOP works in real-world applications.
+All programs are simple, beginner-friendly, and practical examples of class-based desi
+
