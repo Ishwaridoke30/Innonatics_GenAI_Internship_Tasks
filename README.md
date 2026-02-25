@@ -39,3 +39,9 @@ This task includes six small real-world systems built using Python functions, lo
 6. Password Strength Checker– Validates password based on length, digit, and special character.
 Purpose: To practice Python fundamentals and apply them to real-time scenarios.
 
+🟢Task 6: Function based on problem solving
+This program manages event registrations by tracking total users and validating capacity limits.
+It prevents overbooking by confirming users only up to the maximum capacity.
+Additional registrations are automatically moved to a waitlist.
+The system updates registration status as Open or Closed based on availability.
+
